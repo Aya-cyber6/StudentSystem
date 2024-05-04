@@ -1,4 +1,3 @@
-//Ad-Soyad : Aya Khalifa    NO : 1306220166
 #include <iostream>
 #include <fstream>
 #include <sstream>
